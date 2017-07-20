@@ -1,0 +1,7 @@
+Function Generator
+=====================================
+	
+.. automodule:: remotelab.function_generator
+
+.. autoclass:: FunctionGenerator
+	:members:

@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+_build
+*~
+__pycache__
+*egg-info
+*.bin
+Look_n_cook/data
+wf_params*.txt
+log*.txt

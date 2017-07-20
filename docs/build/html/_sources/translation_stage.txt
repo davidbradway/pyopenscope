@@ -1,0 +1,7 @@
+Translation Stage
+=====================================
+	
+.. automodule:: remotelab.translation_stage
+
+.. autoclass:: TranslationStage
+	:members:

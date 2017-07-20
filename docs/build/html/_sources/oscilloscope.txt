@@ -1,0 +1,7 @@
+Oscilloscope
+=====================================
+	
+.. automodule:: remotelab.oscilloscope
+
+.. autoclass:: Oscilloscope
+	:members:
