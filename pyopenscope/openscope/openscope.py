@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 class OpenScope:
     """
     Library designed to communicate with the OpenScope
